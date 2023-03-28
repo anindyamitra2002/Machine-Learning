@@ -1,0 +1,63 @@
+year
+Year data collected
+
+
+month
+Numeric representation of the month
+
+
+carrier_name
+Carrier Name.
+
+
+arr_flights
+Number of flights arriving at airport
+
+
+arr_del15
+Number of flights more than 15 minutes late
+
+
+carrier_ct
+Number of flights delayed due to air carrier. (e.g. no crew)
+
+
+weather_ct
+Number of flights due to weather.
+
+
+nas_ct
+Number of flights delayed due to National Aviation System (e.g. heavy air traffic).
+
+
+late_aircraft_ct
+Number of flights delayed as a result of another flight on the same aircraft delayed
+
+
+arr_diverted
+Number of flights that were diverted
+
+
+carrier_delay
+Total time (minutes) of delay due to air carrier
+
+
+weather_delay
+Total time (minutes) of delay due to inclement weather.
+
+
+
+nas_delay
+Total time (minutes) of delay due to National Aviation System.
+
+
+late_aircraft_delay
+Total time (minutes) of delay flights as a result of a previous flight on the same airplane being late.
+
+
+country
+Name of country from where it arrive or deperted
+
+
+arr_delay(TARGET)
+Total time (minutes) of delayed flight.
